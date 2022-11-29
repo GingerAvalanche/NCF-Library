@@ -6164,6 +6164,7 @@ CharacterCallbackType
 CharacterContorllerJob
 CharacterController
 CharacterControllerFormChange
+CharacterControllerParam
 CharacterControllerTable
 characterDepth
 characterHeight
@@ -39295,6 +39296,7 @@ param_obj
 ParamPerType_%s
 param_root
 ParamSet
+ParamSetHeader
 Para_Rock_1
 Para_Rock_2
 Para_Rock_3
@@ -43643,13 +43645,16 @@ RigidBody_Leg_2_R
 rigid_body_name
 RigidBodyName
 RigidBodyName%d
+RigidBodyParam
 RigidBodyRequestMgr::Water
 RigidBodySet
+RigidBodySetHeader
 RigidBodySetName
 RigidBody_Spine_1
 RigidBody(Tera)
 rigid_c_%02d
 RigidContactInfo
+RigidContactInfoHeader
 rigidFactor
 rigid_name
 RigidName

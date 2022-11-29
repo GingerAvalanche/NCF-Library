@@ -14,6 +14,7 @@ AfterImage_%d
 AngleCenter%d
 AnglePower%d
 AngleWidth%d
+AnmTarget_%d
 ao%d
 Approach_%02d
 Area_%04d
@@ -165,6 +166,7 @@ material_special%d
 mesh_instance%d
 model_%d
 model%d
+ModelData_%d
 ModelMatrialName%d
 Move_Gear%d
 MusicDefine_%d
@@ -265,6 +267,7 @@ T_PlusMinus_%02d
 _%u
 -%u
 unit_%d
+Unit_%d
 UseFlag%02d
 UserData%d
 UserPass%d
